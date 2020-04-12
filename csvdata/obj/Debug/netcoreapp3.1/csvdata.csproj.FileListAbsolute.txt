@@ -1,0 +1,11 @@
+/home/dmitry/mycsharp/csvdata_test/csvdata/obj/Debug/netcoreapp3.1/csvdata.csprojAssemblyReference.cache
+/home/dmitry/mycsharp/csvdata_test/csvdata/obj/Debug/netcoreapp3.1/csvdata.AssemblyInfoInputs.cache
+/home/dmitry/mycsharp/csvdata_test/csvdata/obj/Debug/netcoreapp3.1/csvdata.AssemblyInfo.cs
+/home/dmitry/mycsharp/csvdata_test/csvdata/bin/Debug/netcoreapp3.1/csvdata
+/home/dmitry/mycsharp/csvdata_test/csvdata/bin/Debug/netcoreapp3.1/csvdata.deps.json
+/home/dmitry/mycsharp/csvdata_test/csvdata/bin/Debug/netcoreapp3.1/csvdata.runtimeconfig.json
+/home/dmitry/mycsharp/csvdata_test/csvdata/bin/Debug/netcoreapp3.1/csvdata.runtimeconfig.dev.json
+/home/dmitry/mycsharp/csvdata_test/csvdata/bin/Debug/netcoreapp3.1/csvdata.dll
+/home/dmitry/mycsharp/csvdata_test/csvdata/bin/Debug/netcoreapp3.1/csvdata.pdb
+/home/dmitry/mycsharp/csvdata_test/csvdata/obj/Debug/netcoreapp3.1/csvdata.dll
+/home/dmitry/mycsharp/csvdata_test/csvdata/obj/Debug/netcoreapp3.1/csvdata.pdb
